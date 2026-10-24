@@ -1,0 +1,3 @@
+/home/omup/code/talos_ipc_image_pose_receiver/build/CMakeFiles/talos_ipc_image_pose_receiver.dir
+/home/omup/code/talos_ipc_image_pose_receiver/build/CMakeFiles/edit_cache.dir
+/home/omup/code/talos_ipc_image_pose_receiver/build/CMakeFiles/rebuild_cache.dir

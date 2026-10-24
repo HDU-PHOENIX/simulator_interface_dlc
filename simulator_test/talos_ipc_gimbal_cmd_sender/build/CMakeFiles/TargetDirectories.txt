@@ -1,0 +1,3 @@
+/home/omup/code/talos_ipc_gimbal_cmd_sender/build/CMakeFiles/talos_ipc_gimbal_cmd_sender.dir
+/home/omup/code/talos_ipc_gimbal_cmd_sender/build/CMakeFiles/edit_cache.dir
+/home/omup/code/talos_ipc_gimbal_cmd_sender/build/CMakeFiles/rebuild_cache.dir

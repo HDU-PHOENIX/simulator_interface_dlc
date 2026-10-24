@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/talos_ipc_gimbal_cmd_sender.dir/main.cpp.o -o talos_ipc_gimbal_cmd_sender 
